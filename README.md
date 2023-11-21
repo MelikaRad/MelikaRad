@@ -2,7 +2,7 @@
 I'm Melo
 and here's a brief intro:
 
-## About Me
+### About Me
 
 - Dynamo with an insatiable appetite for learning
 - A sports enthusiast
@@ -10,7 +10,7 @@ and here's a brief intro:
 - Currently exploring innovative projects at the intersection of AI and hardware.
 - Enthusiastic about mastering CUDA programming for hardware acceleration.
 
-## Interests
+### Interests
 - Sports and fitness
 - Exploring the fusion of AI and diverse domains
 - Coffee with a cinnamon flavour, Caffè mocha, mint tea
