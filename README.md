@@ -13,7 +13,7 @@ and here's a brief intro:
 ### Interests
 - Sports and fitness
 - Exploring the fusion of AI and diverse domains
-- Coffee with a cinnamon flavour, Caffè mocha, mint tea
+- Coffee with a cinnamon flavour, caffè mocha, mint tea
 
 <!--
 **MelikaRad/MelikaRad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
