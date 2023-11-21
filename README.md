@@ -14,6 +14,7 @@ and here's a brief intro:
 - Sports and fitness
 - Exploring the fusion of AI and diverse domains
 - Coffee with a cinnamon flavour, caffè mocha, mint tea
+- Doom metal
 
 <!--
 **MelikaRad/MelikaRad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
