@@ -11,7 +11,6 @@ and here's a brief intro:
 ### Interests
 - Exploring the fusion of AI and diverse domains
 - Distributed systems
-- Cinnamon coffee, caffè mocha, sports and fitness, doom metal
 
 <!--
 **MelikaRad/MelikaRad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
