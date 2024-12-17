@@ -5,7 +5,6 @@ and here's a brief intro:
 ### About Me
 - Dynamo with an insatiable appetite for learning.
 - Passionate about AI, computer vision, and GNNs.
-- Currently exploring innovative projects at the intersection of AI and hardware.
 
 ### Interests
 - Exploring the fusion of AI and diverse domains
